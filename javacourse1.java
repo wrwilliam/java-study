@@ -7,3 +7,11 @@ public static void main(String[]args)
 class string peole(name)
 {
 }
+class void int age(int ages)
+{ int ages;
+  string name;
+ char sex;
+ string hobby;
+ public teacher (){
+ }
+}
